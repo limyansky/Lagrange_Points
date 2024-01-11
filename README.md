@@ -10,7 +10,7 @@ When two bodies in space orbit one-another, there exist special equilibrium poin
 
 ## Repository Contents
 
-- Lagrange_Points.nb: A Mathematica notebook (as a binary file) walking through the creation of the lagrange points in the following steps:
+- Lagrange_Points.nb: A Mathematica notebook (as a binary file) walking through the derivation of the Lagrange points in the following steps:
 	- Single-Body Gravitational Potential
 	- Two-Body Gravitational Potential
 	- Centrifugal Potential
