@@ -19,4 +19,4 @@ When two bodies in space orbit one-another, there exist special equilibrium poin
 ## Further Resources I've prepared
 I've uploaded the notebook to [Mathematica Online](https://www.wolframcloud.com/env/everyonetookthegoodnames/Published/Lagrange_Points.nb)
 
-I plan to write a blog post on this topic soon, with some nice animations! I will add a link to [Limyansky.com](limyansky.com) when its ready.
+I plan to write a blog post on this topic soon, with some nice animations! I will add a link to [Limyansky.com](https://www.limyansky.com) when its ready.
