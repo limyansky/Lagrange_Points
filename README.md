@@ -4,6 +4,8 @@ Twice now, I've found myself in discussions with my non-physics friends about th
 
 ## Lagrange Points in a Nutshell
 
+![The lagrange points (red) of a two-body system are displayed.](images/lagrangePoints.jpg)
+
 When two bodies in space orbit one-another, there exist special equilibrium points around them where small satellites will feel no net force. These locations are called Lagrange points, and they are essentially parking spots where satellites can stay in the same location relative to the two bodies without (in theory, at least) having to expend any fuel.
 
 ## Repository Contents
@@ -15,6 +17,8 @@ When two bodies in space orbit one-another, there exist special equilibrium poin
 	- Effective Potential = Two-Body Gravitational Potential + Centrifugal Potential
 	- Calculating the Lagrange Points from the Effective Potential
 - Lagrange_Points.pdf: A version of the Mathematica notebook you can read with your favorite PDF viewer
+
+![An interactive object within Lagrange_Points.nb letting the user tweak relevant parameters.](images/manipulate.gif)
 
 ## Further Resources I've prepared
 I've uploaded the notebook to [Mathematica Online](https://www.wolframcloud.com/env/everyonetookthegoodnames/Published/Lagrange_Points.nb)
